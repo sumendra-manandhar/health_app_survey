@@ -2,7 +2,6 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sumendra-manandhar.github.io/health_app_survey",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
